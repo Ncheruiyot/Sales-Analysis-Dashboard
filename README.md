@@ -1,5 +1,5 @@
 
-# Sales Analysis Dashboard
+# FNP Sales Analysis 
 
 ## Overview
 This Sales Analysis Dashboard provides in-depth insights into sales performance using advanced Excel tools. The dashboard helps analyze key metrics like revenue, order trends, product performance, and customer behavior, making data-driven decision-making easier.
